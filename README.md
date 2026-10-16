@@ -1,23 +1,35 @@
-# VLADS Future — Product Portfolio
+# VLADS Future | Product Portfolio
 
-Security-focused AI software, intelligent automation, and human-centered systems.
+**AI Security · Intelligent Automation · Applied AI**
+
+A curated overview of selected engineering and product initiatives. The focus is practical software, security-conscious design, and human-centered workflows. Commercial implementations remain private.
+
+[Engineering profile](https://github.com/vladislavnaidenkopro-code) · [LinkedIn](https://www.linkedin.com/in/vladislav-naydenko/)
+
+---
+
+## Product landscape
+
+| Initiative | Focus | Public status |
+| --- | --- | --- |
+| [Universal Browser Agent](products/universal-browser-agent.md) | Intelligent browser automation | Private development |
+| [VLADS Live Assistant](products/vlads-live-assistant.md) | Multilingual live assistance | Pre-release validation |
+| [VLADS Forecast Intelligence](products/vlads-forecast-intelligence.md) | Research and decision support | Private development |
+| [VLADS Technology Intelligence](products/vlads-technology-intelligence.md) | Technology monitoring and intelligence | Private development |
+| [VLADS Operator Studio](products/vlads-operator-studio.md) | AI operations workspace | Private development |
 
 ## Public engineering showcase
 
-[Hardware-Attested AI Agent Runtime](https://github.com/vladislavnaidenkopro-code/hardware-attested-ai-agent-runtime) — a bounded public engineering showcase; not a production release.
+### [Hardware-Attested AI Agent Runtime](https://github.com/vladislavnaidenkopro-code/hardware-attested-ai-agent-runtime)
 
-## Selected private product initiatives
+A bounded engineering showcase examining security-oriented AI-agent execution and confidential computing. This is a public portfolio description, **not** a production product release or distribution of proprietary technology.
 
-- [Universal Browser Agent](products/universal-browser-agent.md) — Intelligent browser automation for practical digital workflows.
-- [VLADS Live Assistant](products/vlads-live-assistant.md) — Multilingual AI assistance for interviews and live conversations.
-- [VLADS Forecast Intelligence](products/vlads-forecast-intelligence.md) — AI-assisted research and decision support.
-- [VLADS Technology Intelligence](products/vlads-technology-intelligence.md) — Technology monitoring and intelligence.
-- [VLADS Operator Studio](products/vlads-operator-studio.md) — An AI operations workspace focused on operator experience.
+## Collaboration
 
-Descriptions do not imply general availability, independent certification, or production readiness.
+Relevant engineering discussions and design-partner conversations are welcome through [LinkedIn](https://www.linkedin.com/in/vladislav-naydenko/). Product availability, demonstrations, and collaboration terms are subject to individual confirmation.
 
-## Publication boundary
+## Disclosure and claims
 
-Commercial source code, proprietary algorithms, internal architecture, configurations, security mechanisms, and private engineering evidence are not published.
+This repository contains **marketing-level descriptions only**. It does not distribute commercial source code, proprietary algorithms, internal architecture, configurations, security mechanisms, credentials, deployment procedures, or private engineering evidence. No general availability, production certification, independent validation, or specific performance level is claimed.
 
-[GitHub profile](https://github.com/vladislavnaidenkopro-code) | [LinkedIn](https://www.linkedin.com/in/vladislav-naydenko/)
+© 2026 Vladislav Naidenko. Product descriptions are provided for portfolio purposes; no license to proprietary implementations is granted.

@@ -1,7 +1,15 @@
 # VLADS Forecast Intelligence
 
+**Focus:** AI-assisted research and decision support.
+
+**Public status:** Private development
+
+## Product overview
+
 AI-assisted research and decision support.
 
-**Availability:** Private development; general availability not announced.
+## Availability and disclosure
 
-Commercial implementations and internal engineering evidence remain private.
+This initiative is not advertised as generally available. Detailed implementations, product internals, security mechanisms, operational configurations, and private evaluation evidence are not published.
+
+[Back to product portfolio](../README.md)
