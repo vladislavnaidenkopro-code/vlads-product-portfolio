@@ -1,5 +1,7 @@
 # VLADS Forecast Intelligence
 
+![VLADS Forecast Intelligence conceptual illustration](../assets/vlads-forecast-intelligence.svg)
+
 **Focus:** AI-assisted research and decision support.
 
 **Public status:** Private development

@@ -1,5 +1,7 @@
 # VLADS Future | Product Portfolio
 
+![VLADS Future conceptual portfolio illustration](assets/cover.svg)
+
 **AI Security · Intelligent Automation · Applied AI**
 
 A curated overview of selected engineering and product initiatives. The focus is practical software, security-conscious design, and human-centered workflows. Commercial implementations remain private.

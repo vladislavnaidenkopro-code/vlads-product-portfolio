@@ -1,5 +1,7 @@
 # VLADS Operator Studio
 
+![VLADS Operator Studio conceptual illustration](../assets/vlads-operator-studio.svg)
+
 **Focus:** An AI operations workspace focused on operator experience.
 
 **Public status:** Private development

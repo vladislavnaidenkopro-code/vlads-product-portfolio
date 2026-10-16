@@ -1,5 +1,7 @@
 # Universal Browser Agent
 
+![Universal Browser Agent conceptual illustration](../assets/universal-browser-agent.svg)
+
 **Focus:** Intelligent browser automation for practical digital workflows.
 
 **Public status:** Private development

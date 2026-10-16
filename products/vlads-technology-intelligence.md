@@ -1,5 +1,7 @@
 # VLADS Technology Intelligence
 
+![VLADS Technology Intelligence conceptual illustration](../assets/vlads-technology-intelligence.svg)
+
 **Focus:** Technology monitoring and intelligence.
 
 **Public status:** Private development

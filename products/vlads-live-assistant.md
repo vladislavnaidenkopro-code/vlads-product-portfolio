@@ -1,5 +1,7 @@
 # VLADS Live Assistant
 
+![VLADS Live Assistant conceptual illustration](../assets/vlads-live-assistant.svg)
+
 **Focus:** Multilingual AI assistance for interviews and live conversations.
 
 **Public status:** Pre-release validation
