@@ -1,6 +1,6 @@
 # VLADS Technology Intelligence
 
-![VLADS Technology Intelligence conceptual illustration](../assets/vlads-technology-intelligence.svg)
+![VLADS Technology Intelligence conceptual illustration](../assets/vlads-technology-intelligence.jpg)
 
 **Focus:** Technology monitoring and intelligence.
 

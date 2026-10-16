@@ -1,6 +1,6 @@
 # VLADS Future | Product Portfolio
 
-![VLADS Future conceptual portfolio illustration](assets/cover.svg)
+![VLADS Future conceptual portfolio illustration](assets/cover.jpg)
 
 **AI Security · Intelligent Automation · Applied AI**
 

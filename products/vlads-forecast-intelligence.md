@@ -1,6 +1,6 @@
 # VLADS Forecast Intelligence
 
-![VLADS Forecast Intelligence conceptual illustration](../assets/vlads-forecast-intelligence.svg)
+![VLADS Forecast Intelligence conceptual illustration](../assets/vlads-forecast-intelligence.jpg)
 
 **Focus:** AI-assisted research and decision support.
 

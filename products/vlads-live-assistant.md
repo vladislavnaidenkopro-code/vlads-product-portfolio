@@ -1,6 +1,6 @@
 # VLADS Live Assistant
 
-![VLADS Live Assistant conceptual illustration](../assets/vlads-live-assistant.svg)
+![VLADS Live Assistant conceptual illustration](../assets/vlads-live-assistant.jpg)
 
 **Focus:** Multilingual AI assistance for interviews and live conversations.
 
