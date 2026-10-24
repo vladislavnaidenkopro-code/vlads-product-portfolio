@@ -2,26 +2,34 @@
 
 ![VLADS Technology Intelligence conceptual illustration](../assets/vlads-technology-intelligence.jpg)
 
-**Focus:** Technology monitoring and intelligence.
+**Focus:** Technology monitoring, structured research, and signal assessment.
 
-**Public status:** Private development
+**Public status:** Private validation
 
 ## Product overview
 
-Technology monitoring and intelligence.
+VLADS Technology Intelligence organizes fragmented technical information into a research workflow for identifying relevant developments, comparing approaches, and preparing decision-oriented briefs.
 
 ## Intended use cases
 
-Competitive technology scanning, technical trend reviews, research briefs, and opportunity mapping.
+- Competitive technology scanning.
+- Technical trend and research reviews.
+- Opportunity mapping and structured briefs.
+- Monitoring changes across selected research sources.
 
-## Design focus
+## Engineering themes
 
-The goal is to organize fragmented technology signals into a decision-oriented view.
+- Structured multi-source research ingestion.
+- Deduplication and canonicalization of repeated records.
+- Continuation and pagination handling for larger result sets.
+- Provenance-aware research organization.
 
-These are product-direction descriptions, not claims of general availability or independently verified performance.
+## Private validation scope
+
+Private validation has exercised multi-page research-source ingestion, duplicate handling, continuation workflows, and provenance-oriented processing. These statements do not imply exhaustive coverage, exclusive data access, real-time monitoring of every source, or automated truth verification.
 
 ## Availability and disclosure
 
-This initiative is not advertised as generally available. Detailed implementations, product internals, security mechanisms, operational configurations, and private evaluation evidence are not published.
+This initiative is not advertised as generally available. Source-selection logic, internal ranking, private evidence, deployment configuration, and proprietary implementation remain private.
 
 [Back to product portfolio](../README.md)

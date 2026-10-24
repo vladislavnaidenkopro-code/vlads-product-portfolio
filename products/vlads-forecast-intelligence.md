@@ -2,26 +2,34 @@
 
 ![VLADS Forecast Intelligence conceptual illustration](../assets/vlads-forecast-intelligence.jpg)
 
-**Focus:** AI-assisted research and decision support.
+**Focus:** AI-assisted research, scenario analysis, and decision support.
 
-**Public status:** Private development
+**Public status:** Private validation
 
 ## Product overview
 
-AI-assisted research and decision support.
+VLADS Forecast Intelligence is a research-oriented workspace for combining source data, historical context, model outputs, scenarios, and uncertainty into a decision-support process that remains inspectable by an analyst.
 
 ## Intended use cases
 
-Market research, scenario comparison, trend analysis, and decision-support reporting.
+- Market and macro research.
+- Scenario comparison and hypothesis review.
+- Historical-data analysis.
+- Decision-support reporting and research communication.
 
-## Design focus
+## Engineering themes
 
-The emphasis is on making assumptions, uncertainty, and research findings easier to examine.
+- Reproducible ingestion and transformation of research data.
+- Explicit treatment of assumptions and uncertainty.
+- Historical evaluation before stronger forecasting claims.
+- Separation of research support from automated trading or guaranteed predictions.
 
-These are product-direction descriptions, not claims of general availability or independently verified performance.
+## Private validation scope
+
+Private validation has exercised controlled real-source ingestion, historical dataset processing, reproducible research workflows, and multi-model analysis. This does not establish investment performance, independently verified predictive accuracy, or suitability for automated trading.
 
 ## Availability and disclosure
 
-This initiative is not advertised as generally available. Detailed implementations, product internals, security mechanisms, operational configurations, and private evaluation evidence are not published.
+This initiative is not advertised as generally available. Proprietary models, private datasets, internal evaluation evidence, deployment configuration, and unreleased forecasts remain private.
 
 [Back to product portfolio](../README.md)
