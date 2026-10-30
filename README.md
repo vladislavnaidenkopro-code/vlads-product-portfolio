@@ -42,6 +42,14 @@ No public claim is made here for general availability, production certification,
 
 A bounded engineering showcase exploring security-oriented AI-agent execution and confidential-computing concepts. It is a public portfolio artifact, not a production product release or a distribution of proprietary VLADS Future implementations.
 
+## Independent research
+
+**[AI-Agent Execution Assurance](https://doi.org/10.5281/zenodo.23784545)** — Independently published, reproducible research using bounded countermodels to examine authorization, idempotency, and audit-log continuity for AI-agent execution.
+
+[Scientific preprint](https://doi.org/10.5281/zenodo.23784545) · [Reproducible software archive](https://doi.org/10.5281/zenodo.23783618) · [Research repository](https://github.com/vladislavnaidenkopro-code/agent-execution-assurance)
+
+This preprint is not peer-reviewed. Its finite-model findings do not establish production security guarantees or certify proprietary VLADS Future systems.
+
 ## Collaboration
 
 Relevant engineering discussions, design-partner conversations, and role-related conversations are welcome through [LinkedIn](https://www.linkedin.com/in/vladislav-naydenko/).
